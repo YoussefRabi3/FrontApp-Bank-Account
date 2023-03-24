@@ -1,27 +1,21 @@
-# DigitalBankingApp
+Je vous écris pour vous informer de notre besoin de mettre à niveau notre version actuelle d'UiPath Orchestrator vers la dernière version 2020.10. Cette mise à niveau est nécessaire pour nous permettre d'accéder aux dernières fonctionnalités et améliorations offertes par UiPath, ainsi que pour améliorer les performances de notre environnement d'automatisation.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+Nous avons examiné les options disponibles pour effectuer cette mise à niveau, et nous avons identifié deux méthodes possibles : la mise à niveau (upgrade) et la migration. Cependant, après avoir examiné les avantages et les inconvénients de chaque méthode, nous recommandons fortement la mise à niveau plutôt que la migration.
 
-## Development server
+La mise à niveau implique d'installer la nouvelle version d'UiPath Orchestrator et de la base de données sur notre environnement actuel, puis de mettre à niveau nos données existantes. Cette méthode est la plus simple et la moins risquée pour notre entreprise, car elle ne devrait pas causer de perte de données ou d'autres problèmes potentiels. Nous avons également confirmé que cette méthode est supportée et recommandée par UiPath.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+D'autre part, la migration implique de déplacer les données de notre environnement actuel vers un nouvel environnement, ce qui peut causer des problèmes potentiels tels que la perte de données ou des incompatibilités avec les nouvelles versions de logiciels ou de matériel. Nous avons décidé de ne pas suivre cette méthode, car elle est plus complexe et risquée que la mise à niveau.
 
-## Code scaffolding
+Pour procéder à la mise à niveau, nous avons prévu de suivre les étapes suivantes :
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Effectuer une sauvegarde complète de toutes les données de notre environnement actuel, y compris la base de données et les fichiers d'Orchestrator.
 
-## Build
+Installer la nouvelle version d'UiPath Orchestrator et de la base de données sur notre environnement actuel en suivant les instructions fournies par UiPath.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Mettre à niveau nos données existantes en suivant les instructions fournies par UiPath.
 
-## Running unit tests
+Tester le nouvel environnement pour confirmer que tout fonctionne correctement.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Nous prévoyons de procéder à la mise à niveau pendant une période de maintenance planifiée pour minimiser les perturbations potentielles pour nos utilisateurs. Nous travaillerons également avec notre équipe informatique et avec UiPath pour assurer une transition fluide vers la nouvelle version.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Nous vous remercions de prendre en considération notre besoin de mettre à niveau notre environnement UiPath Orchestrator, et nous restons à votre disposition pour répondre à toutes les questions que vous pourriez avoir.
