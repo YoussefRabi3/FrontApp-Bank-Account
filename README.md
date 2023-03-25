@@ -5,3 +5,6 @@ https://docs.uipath.com/installation-and-upgrade/docs/orchestrator-prerequisites
 l'orchestrateur et le programme d'installation du studio sont séparés, vous pouvez vous inscrire et télécharger l'orchestrateur à partir d'ici https://www.uipath.com/developers/enterprise-edition-download et télécharger le studio à partir d'ici https://www.uipath.com/developers/ studio-téléchargement
 
 .NET Framework 4.7.2  la version compatible avec ce envirenement 
+
+//playlist pour telecharger UIPATH
+https://www.youtube.com/watch?v=QqyZ8Q8cMeg&list=PLNsqvlMsvEwlec0OvpUvMbJlgdoYUuLqJ&index=1
