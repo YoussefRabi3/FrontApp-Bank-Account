@@ -8,3 +8,6 @@ l'orchestrateur et le programme d'installation du studio sont séparés, vous po
 
 //playlist pour telecharger UIPATH
 https://www.youtube.com/watch?v=QqyZ8Q8cMeg&list=PLNsqvlMsvEwlec0OvpUvMbJlgdoYUuLqJ&index=1
+
+//Connect sql server with uipath 
+https://www.youtube.com/watch?v=68ZosllDdIo
