@@ -12,4 +12,7 @@ https://www.youtube.com/watch?v=QqyZ8Q8cMeg&list=PLNsqvlMsvEwlec0OvpUvMbJlgdoYUu
 //Connect sql server with uipath 
 https://www.youtube.com/watch?v=68ZosllDdIo
 
-Bonjour, aujourd'hui je vous contacte à propos le sujet d’upgrade mon problème dans ce cas-là c'est que je veux faire un upgrade d’orchestrateur pour la version 2019.10 vers la version 2020.10 pendant cet upgrade je vous garder la même base de données avec toutes les données qui existe dans elles. Donc ma question c'est est ce que la version UIPATH 2020.10 ça vas être compatible avec cette nouvelle version d'orchestrateur ou bien non ? la deuxième question c'est qu’est-ce que vous pouvez me rendre un fichier dans lequel je peux avoir toutes les étapes concernant cet upgrade de A jusqu'à Z parce que je suis encore débutant dans ce domaine là
+
+
+
+
