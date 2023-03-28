@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=QqyZ8Q8cMeg&list=PLNsqvlMsvEwlec0OvpUvMbJlgdoYUu
 https://www.youtube.com/watch?v=68ZosllDdIo
 
 
+https://docs.uipath.com/installation-and-upgrade/docs/orchestrator-prerequisites-for-installation  lien pour instalation 
+
+
 
 
 
