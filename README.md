@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=68ZosllDdIo
 
 https://docs.uipath.com/installation-and-upgrade/docs/orchestrator-prerequisites-for-installation  lien pour instalation 
 
+https://docs.uipath.com/installation-and-upgrade/docs/about-updating-and-migrating  about ligration and updating 
+
 
 
 
