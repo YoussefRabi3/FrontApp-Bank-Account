@@ -18,6 +18,9 @@ https://docs.uipath.com/installation-and-upgrade/docs/orchestrator-prerequisites
 https://docs.uipath.com/installation-and-upgrade/docs/about-updating-and-migrating  about ligration and updating 
 
 
+https://academy.uipath.com/jp/learningpath-viewer/5272/1/193886/2 lien formation 
+
+
 
 
 
