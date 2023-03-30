@@ -21,6 +21,10 @@ https://docs.uipath.com/installation-and-upgrade/docs/about-updating-and-migrati
 https://academy.uipath.com/jp/learningpath-viewer/5272/1/193886/2 lien formation 
 
 
+https://acme-test.uipath.com/login  lien pour web scraping
+compte, rendez-vous d’abord sur https://acme-test.uipath.com/register   web scraping 
+
+
 
 
 
